@@ -394,9 +394,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   AngerLevel: 0
   AngerStage: 0
-  stageInformation: []
   Target: {fileID: 0}
-  attacking: 0
+  follow: 0
 --- !u!1 &219991448992988593
 GameObject:
   m_ObjectHideFlags: 0
